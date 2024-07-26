@@ -1,0 +1,22 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.App {
+  background-color: #282c34;
+  
+}
+
+.NewRelease-section h3{
+  color: white;
+  margin: 40px 80px;
+  font-weight: 600;
+  font-size: 36px;
+}
+.NewRelease{
+  margin: 0px 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
